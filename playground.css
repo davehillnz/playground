@@ -11,3 +11,7 @@ html{
 .hidePic{
     background-image: none;
 }
+
+.picView:hover{
+    cursor: pointer;
+}
