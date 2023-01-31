@@ -1,6 +1,12 @@
 $( function () {
     $( "#picView" ).click( function (){
-        $( "html" ).addClass( "showPic" );
+        if( $( "html" ).hasClass ( "showPic" ) ){
+            $( "html" ).removeClass( "showPic" );
+        }
+        else{
+            $( "html" ).addClass( "showPic" );
+        }
+        
     })
 })
 
