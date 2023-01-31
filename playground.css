@@ -12,6 +12,6 @@ html{
     background-image: none;
 }
 
-.picView:hover{
+#picView:hover{
     cursor: pointer;
 }
