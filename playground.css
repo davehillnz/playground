@@ -3,3 +3,11 @@ html{
     color: rgba(3, 196, 3, 0.739);
     background-color: #010101;
 }
+
+.showPic{
+    background-image: "images/hvl.jpg";
+}
+
+.hidePic{
+    background-image: none;
+}
