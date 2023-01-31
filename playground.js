@@ -1,5 +1,7 @@
 $( function () {
+    $( "#picView" ).click( function (){
 
+    })
 })
 
 
