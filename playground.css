@@ -5,8 +5,8 @@ html{
 }
 
 .showPic{
-    background-image: url( "images/hvl.jpg" );
-    background-repeat: no-repeat;
+    background-image: url( images/hvl.jpg ) no-repeat center fixed;
+    background-size: cover;
 }
 
 .hidePic{
