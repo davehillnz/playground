@@ -5,9 +5,9 @@ html{
 }
 
 .showPic{
-    background-image: url( "images/hvl.jpg" ) no-repeat center fixed;
+    background: url( "images/hvl.jpg" ) no-repeat center fixed;
     background-size: cover;
-}
+  }
 
 .hidePic{
     background-image: none;
