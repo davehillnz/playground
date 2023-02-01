@@ -5,7 +5,7 @@ html{
 }
 
 .showPic{
-    background-image: url( "images/hvl.jpg" );
+    background-image: url( "./images/hvl.jpg" );
     background-repeat: no-repeat;
 }
 
